@@ -1,11 +1,19 @@
 body{
     background-color: black;
+    padding: 5% 15%;     
+    display: flex;     
+    align-items: center;     
+    justify-content: space-between;
     }
 .title{
     color: purple;
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
     text-align: center;
     position: relative;
     top: -90px;
+    left: 40%;
     font-style: italic;
       }
 .logo{
@@ -60,4 +68,80 @@ li{
      left: 65%;
      top: -200px;
      }
-
+.Name{
+    position: relative;
+    left: 140px;
+    top: -100px;
+     }
+.Cadastro{
+    color: purple;
+    font-size: large;
+    position: relative;
+    top: -65px;
+         }
+.Data{
+    position: relative;
+    left: 140px;
+    top: -120px;  
+     }
+.Responsavel{
+    position: relative;
+    left: 154px;
+    top: -140px;
+            }
+.Cpf1{
+    position: relative;
+    left: 95px;
+    top: -160px;
+    }
+.Cpf2{
+    position: relative;
+    left: 138px;
+    top: -180px;
+     }
+.Numero{
+    position: relative;
+    left: 244px;
+    top: -210px;
+       }
+.NomedoEstudante{
+    position: relative;
+    top: -65px;
+                }
+.DatadeNascimento{
+    position: relative;
+    top: -85px;
+                 }
+.NomedoResponsavel{
+    position: relative;
+    top: -105px;
+                  }
+.CpfdoAluno{
+    position: relative;
+    top: -125px;
+           } 
+.CpfdoResponsavel{
+    position: relative;
+    top: -145px;
+         } 
+ .NumerodeTelefone{
+     position: relative;
+     top: -165px;
+                  }
+.button1{
+    background-color: purple;
+    color: white;
+    width: 65px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    right: 180px;
+    top: -140px;
+        }
+.NumerodeTelefone{
+    position: relative;
+    top: -165px;
+                 }
+.Numero{
+    position: relative;
+       }
