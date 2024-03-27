@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    }
+.title{
+    color: purple;
+    text-align: center;
+    position: relative;
+    top: -90px;
+    font-style: italic;
+      }
+.logo{
+    width: 100px;
+    height: 100px;
+     }
+.Introdução{
+    color: purple;
+    font-size: large;
+    position: relative;
+    top: -60px;
+     }  
+ #Tabela{
+    color: purple;
+    font-size: large;
+    position: relative;
+    top: -60px;
+        }
+.Detalhes1{
+    color: purple;
+    position: relative;
+    top: -60px;
+         }
+p{
+    color: purple;
+ }
+ ul{
+    color: purple;
+   }
+li{
+    color: purple;
+  }
+.gif1{
+    width: 400px;
+    height: 250px;
+    position: relative;
+    left: 65%;
+    top: -180px;
+     }
+.Detalhes2{
+    color: purple;
+    position: relative;
+    top: -60px;
+          }
+.Horário{
+    top: -60px;
+        }
+.gif2{
+     width: 400px;
+     height: 250px;
+     position: relative;
+     left: 65%;
+     top: -200px;
+     }
+
