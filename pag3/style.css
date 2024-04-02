@@ -4,15 +4,33 @@ body{
     }
 h1{
     text-align: center;
-}
-p{
+  }
+.relatorio{
     font-size: large;
     position: relative;
     top: -10px;
- }
-h2{
+          }
+.h2{
     background-color: white;
     border-radius: 20px;
     height: 100px;
     padding: 20px;
-  }
+   }
+.propostas{
+    text-align: center;
+          }
+.volmax1{
+    text-align: center;
+    font-size: xx-large;
+        }
+.volmax2{
+    text-align: left;
+    font: large;
+        }
+.yahuu1{
+    text-align: center;
+    font-size: xx-large;
+       }
+.yahuu2{
+    text-align: left;
+       }

@@ -2,6 +2,10 @@
     font-family: fonte da pagina;
     src: url(Pokemon\ Hollow.ttf);
            }
+@font-face {
+    font-family: fonte secundaria;
+    src: url(Super\ Boys.ttf);
+           }
 body{
     background-image: url(paisagem1.jpeg);
     background-repeat: no-repeat;
@@ -31,23 +35,23 @@ body{
      }
 .Introdução{
     color: black;
-    font-size: large;
+    font-size: x-large;
     position: relative;
     top: -60px;
-    font-family: fonte da pagina;
+    font-family: fonte secundaria;
      }  
  #Tabela{
     color: black;
     font-size: large;
     position: relative;
     top: -60px;
-    font-family: fonte da pagina;
+    font-family: fonte secundaria;
         }
 .Detalhes1{
     color: black;
     position: relative;
     top: -60px;
-    font-family: fonte da pagina;
+    font-family: fonte secundaria;
          }
 p{
     color: black;
@@ -69,7 +73,7 @@ li{
     color: black;
     position: relative;
     top: -60px;
-    font-family: fonte da pagina;
+    font-family: fonte secundaria;
           }
 .Horário{
     top: -60px;
@@ -196,7 +200,9 @@ li{
     right: 440px;
      }
 .informação{
-    font-family: fonte da pagina;
+    font-family: fonte secundaria;
+    color: black;
     position: relative;
-    top: -1700px;
+    top: -150px;
+    
            }
